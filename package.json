@@ -1,7 +1,7 @@
 {
-  "name": "gatsby-starter-mate",
-  "version": "2.5.0",
-  "description": "Gatsby v2 starter to create a top notch portfolio!",
+  "name": "sandeepan.me",
+  "version": "1.0",
+  "description": "mostly a journal of things I do",
   "main": "index.js",
   "scripts": {
     "build": "gatsby clean && gatsby build",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/EmaSuriano/gatsby-starter-mate.git"
+    "url": "https://github.com/meetsandeepan/sandeepan.me.git"
   },
   "keywords": [
     "gatsby",
@@ -26,7 +26,7 @@
   "bugs": {
     "url": "https://github.com/EmaSuriano/gatsby-starter-mate/issues"
   },
-  "homepage": "https://github.com/EmaSuriano/gatsby-starter-mate#readme",
+  "homepage": "https://github.com/meetsandeepan/sandeepan.me",
   "dependencies": {
     "contentful": "^7.0.3",
     "dotenv": "^7.0.0",
