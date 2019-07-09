@@ -1,6 +1,6 @@
 {
   "name": "sandeepan.me",
-  "version": "1.0",
+  "version": "1.0.0",
   "description": "mostly a journal of things I do",
   "main": "index.js",
   "scripts": {
@@ -24,7 +24,7 @@
   "author": "Ema Suriano",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/EmaSuriano/gatsby-starter-mate/issues"
+    "url": "https://github.com/EmaSuriano/s-starter-mate/issues"
   },
   "homepage": "https://github.com/meetsandeepan/sandeepan.me",
   "dependencies": {
